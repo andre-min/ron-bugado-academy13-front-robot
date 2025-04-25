@@ -5,7 +5,7 @@ Resource    ../../base.resource
 *** Keywords ***
 
 Abrir navegador
-    Open Browser    browser=${BROWSER}    #options=add_argument("--headless")
+    Open Browser    browser=${BROWSER}    options=add_argument("--headless")
     Maximize Browser Window
 
 Fechar navegador
