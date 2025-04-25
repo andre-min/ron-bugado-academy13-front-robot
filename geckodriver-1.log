@@ -1,0 +1,13 @@
+1744559266475	geckodriver	INFO	Listening on 127.0.0.1:39575
+1744559266492	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIzfjw9"
+Error: Failed to open Wayland display, fallback to X11. WAYLAND_DISPLAY='wayland-0' DISPLAY=':0'
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1744559267293	Marionette	INFO	Marionette enabled
+1744559267478	Marionette	INFO	Listening on port 35773
+Read port: 35773
+WebDriver BiDi listening on ws://127.0.0.1:54757
+1744559267580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54757/devtools/browser/91f1f39e-ef4c-4328-be00-d06ea03c4e60
+1744559274634	Marionette	INFO	Stopped listening on port 35773
