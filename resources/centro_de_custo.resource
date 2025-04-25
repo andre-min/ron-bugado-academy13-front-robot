@@ -1,7 +1,7 @@
 *** Settings ***
 Resource    ../base.resource
 Resource    variavel.resource
-Library    ../venv/lib/python3.12/site-packages/robot/libraries/XML.py
+
 
 *** Keywords ***
 # Abrir navegador
